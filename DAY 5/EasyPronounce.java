@@ -1,6 +1,8 @@
-import java.util.*;
+
+// https://www.codechef.com/problems/EZSPEAK
+
 import java.lang.*;
-import java.io.*;
+import java.util.*;
 
 class Codechef
 {

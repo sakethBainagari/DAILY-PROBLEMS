@@ -16,15 +16,15 @@ public class Main
 		        arr2[arr1[i]] = i;
 		    }
 		    
-		    boolean success = false;
+		    boolean success = true;
 		    for(int i=1;i<n;i++){
 		        if(Math.abs(arr2[i] - arr2[i+1]) != 1 ){
-		            success = true;
+		            success = false;
 		            break;
 		        }
 		    }
 		    
-		    if(!success){
+		    if(success){
 		        System.out.println("Yes");
 		    }else{
 		        System.out.println("No");

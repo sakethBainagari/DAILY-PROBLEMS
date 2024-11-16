@@ -1,6 +1,7 @@
 // https://codeforces.com/contest/2031/my
+//codeforece
 import java.util.*;
-public class Main {
+public class codeForcesProblem2 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int tc = s.nextInt();
@@ -26,3 +27,4 @@ public class Main {
         }
     }
 }
+// code

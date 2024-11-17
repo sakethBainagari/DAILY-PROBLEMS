@@ -1,6 +1,5 @@
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/checkerboard-pattern
-
-import java.io.*;
+//HIVE CHECKER BOARD
 import java.util.*;
 
 public class Main {

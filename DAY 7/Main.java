@@ -1,3 +1,4 @@
+// https://codeforces.com/contest/2037/problem/A
 import java.util.Scanner;
 
 public class Main {

@@ -1,5 +1,5 @@
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/x-1s-and-y-0s?page=2&pageSize=10
-
+// partially executed   
 import java.math.*;
 import java.util.*;
 

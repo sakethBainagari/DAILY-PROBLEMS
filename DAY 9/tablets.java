@@ -1,8 +1,7 @@
 // https://www.codechef.com/problems/TABLET?tab=ide
-
-import java.util.*;
+// dailt streak
 import java.lang.*;
-import java.io.*;
+import java.util.*;
 
 class Codechef
 {
@@ -11,7 +10,7 @@ class Codechef
 		// your code goes here
         Scanner s = new Scanner(System.in);
         int tc = s.nextInt();
-        while(tc-->0){
+        while(tc-->0){}
             int n = s.nextInt();
             int b = s.nextInt();
             int[][] a = new int[n][3];

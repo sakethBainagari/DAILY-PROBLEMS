@@ -1,8 +1,7 @@
 // https://www.codechef.com/learn/course/arrays/ARRAYS02/problems/DSAAGP12?tab=statement
 
-import java.util.*;
 import java.lang.*;
-import java.io.*;
+import java.util.*;
 class Codechef
 {
 	public static void main (String[] args) throws java.lang.Exception
@@ -32,17 +31,17 @@ class Codechef
 
 //==================USING KADANE'S ALGO =====================
 
-private static int kadane(int[] nums) {
-        int currentSum = 0;
-        int maxSum = Integer.MIN_VALUE;
-        for (int num : nums) {
-            currentSum += num;
-            if (currentSum < num) {
-                currentSum = num;
-            }
-            if (currentSum > maxSum) {
-                maxSum = currentSum;
-            }
-        }
-        return maxSum;
-    }
+// private static int kadane(int[] nums) {
+//         int currentSum = 0;
+//         int maxSum = Integer.MIN_VALUE;
+//         for (int num : nums) {
+//             currentSum += num;
+//             if (currentSum < num) {
+//                 currentSum = num;
+//             }
+//             if (currentSum > maxSum) {
+//                 maxSum = currentSum;
+//             }
+//         }
+//         return maxSum;
+//     }

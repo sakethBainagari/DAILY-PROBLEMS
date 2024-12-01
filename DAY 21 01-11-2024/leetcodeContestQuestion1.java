@@ -16,6 +16,7 @@ class Solution {
         while (temp <= n) {
             temp = (temp << 1);    
         }
+        //System.out.println(temp-1);
         return temp-1;
 
     }

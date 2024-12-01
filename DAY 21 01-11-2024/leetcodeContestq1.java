@@ -1,5 +1,5 @@
 //https://leetcode.com/contest/weekly-contest-426/problems/smallest-number-with-all-set-bits/
-//problem 1
+//problem 01
 class Solution {
     public int smallestNumber(int n) {
         // String s = Integer.toBinaryString(n);

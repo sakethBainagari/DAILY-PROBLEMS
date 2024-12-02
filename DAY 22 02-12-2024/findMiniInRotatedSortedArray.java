@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+// https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 // BRUTE FORCE
 class Solution {
     public int findMin(int[] nums) {

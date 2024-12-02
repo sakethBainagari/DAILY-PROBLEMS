@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
-// BRUTE FORCE
+//BRUTE FORCE
 class Solution {
     public int findMin(int[] nums) {
         int min = Integer.MAX_VALUE;

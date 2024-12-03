@@ -1,17 +1,17 @@
 
 //https://leetcode.com/problems/remove-element/?envType=problem-list-v2&envId=array&difficulty=EASY
 //brute force
-class Solution {
-    public int removeElement(int[] nums, int val) {
-        int count = 0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] != val){
-                count++;
-            }
-        }
-        return count;
-    }
-}
+// class Solution {
+//     public int removeElement(int[] nums, int val) {
+//         int count = 0;
+//         for(int i=0;i<nums.length;i++){
+//             if(nums[i] != val){
+//                 count++;
+//             }
+//         }
+//         return count;
+//     }
+// }
 
 
 //OPTIMAL SOLUTION

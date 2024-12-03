@@ -15,7 +15,7 @@
 
 
 //OPTIMAL SOLUTION
-// two pointer for optimal solution
+// two pointer for optimal solutions
 class Solution {
     public int removeElement(int[] nums, int val) {
         int left = 0; 

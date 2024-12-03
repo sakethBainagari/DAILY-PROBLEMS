@@ -1,5 +1,6 @@
 
 //https://leetcode.com/problems/remove-element/?envType=problem-list-v2&envId=array&difficulty=EASY
+//brute force
 class Solution {
     public int removeElement(int[] nums, int val) {
         int count = 0;

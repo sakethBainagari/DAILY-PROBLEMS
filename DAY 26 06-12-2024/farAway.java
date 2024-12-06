@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/FARAWAY?tab=statement
-//codechef
+//codechef1
 import java.util.*;
 import java.lang.*;
 import java.io.*;

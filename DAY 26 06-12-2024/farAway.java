@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/FARAWAY?tab=statement
-//codechef basuc programming
+//codechef basic programming
 import java.lang.*;
 import java.util.*;
 

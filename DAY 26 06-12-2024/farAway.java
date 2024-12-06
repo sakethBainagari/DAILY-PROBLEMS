@@ -1,8 +1,7 @@
 //https://www.codechef.com/problems/FARAWAY?tab=statement
-//codechef1
-import java.util.*;
+//codechef
 import java.lang.*;
-import java.io.*;
+import java.util.*;
 
 class Codechef
 {

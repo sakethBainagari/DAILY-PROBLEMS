@@ -1,4 +1,5 @@
-import java.io.*;
+
+//https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/smaller-elements?page=0&pageSize=10&search=small
 import java.util.*;
 
 public class Main {

@@ -1,5 +1,5 @@
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/finding-frequency?page=6&pageSize=10
-//
+
 import java.io.*;
 import java.util.*;
 

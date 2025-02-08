@@ -1,5 +1,5 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/finding-the-floor
-//
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 import bisect

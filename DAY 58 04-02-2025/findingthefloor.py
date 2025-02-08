@@ -1,4 +1,4 @@
- https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/finding-the-floor
+ # https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/finding-the-floor
 
 
 import bisect

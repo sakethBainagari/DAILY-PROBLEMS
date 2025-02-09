@@ -1,4 +1,5 @@
 //codechef
+// Counting Pretty Numbers
 //https://www.codechef.com/problems/NUM239?tab=statement
 import java.lang.*;
 import java.util.*;

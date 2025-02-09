@@ -1,4 +1,4 @@
-//codechef
+/codechef
 //https://www.codechef.com/problems/NUM239?tab=statement
 import java.util.*;
 import java.lang.*;

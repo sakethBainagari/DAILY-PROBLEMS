@@ -1,4 +1,4 @@
-
+//Arrays
 //https://www.codechef.com/problems/WATSCORE
 import java.util.*;
 import java.lang.*;

@@ -1,5 +1,5 @@
 //Arrays
-//https://www.codechef.com/problems/WATSCORE
+// https://www.codechef.com/problems/WATSCORE
 import java.util.*;
 import java.lang.*;
 import java.io.*;

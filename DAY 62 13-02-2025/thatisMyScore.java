@@ -23,7 +23,7 @@ class Codechef
             }
             int count=0;
             for(int i=1;i<=8;i++){
-                count+=b[i];
+                count+=b[j];
             }
             System.out.println(count);
         }

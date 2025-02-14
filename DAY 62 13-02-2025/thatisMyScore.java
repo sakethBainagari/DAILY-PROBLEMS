@@ -18,7 +18,7 @@ class Codechef
                 int p = sc.nextInt();
                 int s = sc.nextInt();
                 if(p>=1 && p<=8){
-                    b[p] = Math.max(b[a],s);
+                    b[p] = Math.max(b[p],s);
                 }
             }
             int count=0;

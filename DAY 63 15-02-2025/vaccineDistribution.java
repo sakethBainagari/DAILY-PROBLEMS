@@ -1,5 +1,4 @@
 // Basic problems
-//Codechef
 //https://www.codechef.com/problems/VACCINE2?tab=statement
 import java.lang.*;
 import java.util.*;

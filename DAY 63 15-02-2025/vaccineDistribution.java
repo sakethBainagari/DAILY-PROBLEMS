@@ -1,8 +1,8 @@
 // Basic problems
+//Codechef
 //https://www.codechef.com/problems/VACCINE2?tab=statement
-import java.util.*;
 import java.lang.*;
-import java.io.*;
+import java.util.*;
 
 class Codechef
 {

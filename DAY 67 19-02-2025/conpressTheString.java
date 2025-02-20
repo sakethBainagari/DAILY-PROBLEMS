@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/COMPRESSVD
-//
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;

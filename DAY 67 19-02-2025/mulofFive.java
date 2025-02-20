@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/DIGARR
-//Strings
+//
 import java.lang.*;
 import java.util.*;
 

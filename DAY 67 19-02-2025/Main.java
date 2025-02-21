@@ -1,5 +1,5 @@
 //strings
-
+//https://www.codechef.com/problems/HAPPYSTR?tab=statement
 import java.util.Scanner;
 
 public class Main {

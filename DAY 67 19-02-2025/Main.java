@@ -3,7 +3,6 @@
 //https://www.codechef.com/problems/HAPPYSTR?tab=statement
 
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

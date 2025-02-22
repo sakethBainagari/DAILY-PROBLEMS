@@ -1,5 +1,5 @@
 //strings
-
+//https://www.codechef.com/problems/ZOOZ?tab=statement
 import java.util.*;
 import java.lang.*;
 import java.io.*;

@@ -1,5 +1,5 @@
 
-
+//https://leetcode.com/contest/weekly-contest-438/problems/check-if-digits-are-equal-in-string-after-operations-i/
 class Solution {
     public boolean hasSameDigits(String s) {
         while(s.length() >2){

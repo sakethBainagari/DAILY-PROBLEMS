@@ -11,21 +11,7 @@ public class Main {
     }
 
     public static int encloseSub(int[] countA,int[] countB,String a, String b,int n,int m){
-        // for(int i=0;i<n;i++){
-        //     countA[a.charAt(i)-'a']++;
-        // }
-
-        // int p1=0;
-        // int ans = Integer.MAX_VALUE;
-        // for(int p2=0;p2<m;p2++){
-        //     countB[b.charAt(p2)-'a']++;
-        //     while(isValid(countA,countB)){
-        //         ans = Math.min(ans,p2-p1+1);
-        //         countB[b.charAt(p1)-'a']--;
-        //         p1++;
-        //     }
-        // }
-        // return ans == Integer.MAX_VALUE ? -1 : ans;
+        
         for(char c : b.toCharArray()){
             countB[c-'a']++;
         }

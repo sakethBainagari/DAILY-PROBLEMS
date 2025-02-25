@@ -1,7 +1,7 @@
 
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/subsets-of-an-array?page=2&pageSize=10
 
-import java.io.*;
+
 import java.util.*;
 
 public class MsubAetsOfArrays {

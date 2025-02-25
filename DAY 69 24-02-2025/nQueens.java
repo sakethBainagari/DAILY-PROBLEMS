@@ -1,5 +1,6 @@
 
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/n-queens?page=4&pageSize=10
+
 import java.io.*;
 import java.util.*;
 

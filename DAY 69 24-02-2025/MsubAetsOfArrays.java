@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class MsubAetsOfArrays {
 
     public static void printList(List<Integer> list){
         for(int lis:list){

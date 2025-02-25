@@ -1,7 +1,7 @@
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/enclosing-substring?page=9&pageSize=10
 import java.util.*;
 
-public class Main {
+public class enclosing {
     public  static boolean isValid(int[] countA,int[] countB){
         for(int i=0;i<26;i++){
             if(countA[i] < countB[i]) return false;

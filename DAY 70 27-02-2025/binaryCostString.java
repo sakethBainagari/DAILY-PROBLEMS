@@ -1,4 +1,5 @@
 	//https://www.codechef.com/problems/BSCOST?tab=statement
+	
 	import java.util.*;
 	import java.lang.*;
 	import java.io.*;

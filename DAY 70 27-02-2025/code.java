@@ -1,7 +1,7 @@
 //https://www.codechef.com/problems/TTENIS?tab=statement
-import java.util.*;
+//strings
 import java.lang.*;
-import java.io.*;
+import java.util.*;
 
 class Codechef
 {

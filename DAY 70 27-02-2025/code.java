@@ -1,7 +1,6 @@
 //https://www.codechef.com/problems/TTENIS?tab=statement
 //strings
 //code
-
 import java.lang.*;
 import java.util.*;
 

@@ -1,9 +1,11 @@
 //https://www.codechef.com/problems/TTENIS?tab=statement
 //strings
+//code
+
 import java.lang.*;
 import java.util.*;
 
-class Codechef
+class Code
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

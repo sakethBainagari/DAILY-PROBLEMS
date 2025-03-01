@@ -1,4 +1,5 @@
 
+//https://www.codechef.com/problems/EQUALELE?tab=statement
 import java.util.*;
 import java.lang.*;
 import java.io.*;

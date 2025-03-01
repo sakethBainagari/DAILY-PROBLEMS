@@ -1,9 +1,9 @@
 //https://www.codechef.com/problems/EQUALELE?tab=statement
 //Arrays
-import java.util.*;
+
 import java.lang.*;
-import java.io.*;
-class Codechef
+import java.util.*;
+class Code
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

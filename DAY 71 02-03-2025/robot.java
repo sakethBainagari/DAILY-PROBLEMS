@@ -1,5 +1,6 @@
 //https://www.codechef.com/problems/TSTROBOT
 //Strings
+//HashMap
 import java.lang.*;
 import java.util.*;
 

@@ -13,7 +13,6 @@ class Solution {
         return String.join(" ", list);
     }
 }
-
 -------------------------------------------------------------
 
 class Solution {

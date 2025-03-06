@@ -1,5 +1,4 @@
 //https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=problem-list-v2&envId=array
-
 class Solution {
     public int prefixCount(String[] words, String pref) {
         int count = 0;

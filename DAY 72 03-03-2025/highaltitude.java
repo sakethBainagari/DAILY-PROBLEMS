@@ -1,7 +1,7 @@
 
 //https://leetcode.com/problems/find-the-highest-altitude/?envType=problem-list-v2&envId=array
 
-class Solution {
+class highaltitude {
     public int largestAltitude(int[] gain) {
         int n = gain.length;
 

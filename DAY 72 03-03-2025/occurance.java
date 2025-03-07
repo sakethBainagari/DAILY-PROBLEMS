@@ -1,7 +1,7 @@
 
 //https://www.interviewbit.com/problems/occurence-of-each-number/
 //funtion
-public class Solution {
+public class occurance {
     public ArrayList<Integer> findOccurences(ArrayList<Integer> A) {
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int num : A){

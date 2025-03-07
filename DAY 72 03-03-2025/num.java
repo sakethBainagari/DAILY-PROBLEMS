@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/number-of-different-integers-in-a-string/description/
 //use set
 
-class Solution {
+class num {
     public int numDifferentIntegers(String word) {
         String[] words = word.replaceAll("[^0-9]"," ").split("\\s+");
         Set<String> set = new HashSet<>();

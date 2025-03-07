@@ -1,7 +1,7 @@
 
 //https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=problem-list-v2&envId=string
 
-class Solution {
+class reverseString {
     public String reverseWords(String s) {
         s = s.trim();
         ArrayList<String> list= new ArrayList<>();

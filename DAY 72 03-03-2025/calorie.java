@@ -1,7 +1,7 @@
 //https://www.codechef.com/problems/CALLIM?tab=statement
 import java.lang.*;
 import java.util.*;
-class Codechef
+class calorie
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

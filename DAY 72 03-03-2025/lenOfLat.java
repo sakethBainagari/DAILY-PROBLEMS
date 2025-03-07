@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/length-of-last-word/description/?envType=problem-list-v2&envId=string
-class Solution {
+class lenOfLat {
     public int lengthOfLastWord(String s) {
         s = s.trim();
         ArrayList<String> ss = new ArrayList<>();

@@ -1,9 +1,8 @@
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/number-of-anagramic-groups?page=8&pageSize=10
 
-import java.io.*;
 import java.util.*;
 
-public class Main {
+public class anagramGroup {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

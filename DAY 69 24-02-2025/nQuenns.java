@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class nQuens {
+public class nQuenns {
 
     public static boolean isSafe(int row, int col, int[][] board,int n){
         for(int i=row;i>=0;i--){

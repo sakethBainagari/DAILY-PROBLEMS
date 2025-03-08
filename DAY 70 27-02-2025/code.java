@@ -4,7 +4,7 @@
 import java.lang.*;
 import java.util.*;
 
-class Code
+class code
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

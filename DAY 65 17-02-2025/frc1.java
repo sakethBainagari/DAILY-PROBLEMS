@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class frc1 {
     public static char firRepChar(String str, int n){
             for(int i=0;i<n;i++){
                 for(int j=i+1;j<n;j++){

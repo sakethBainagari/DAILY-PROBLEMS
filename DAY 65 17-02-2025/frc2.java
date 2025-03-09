@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class frc2 {
 
     public static char frc2(String str, int n){
         HashSet<Character> set = new HashSet<>();

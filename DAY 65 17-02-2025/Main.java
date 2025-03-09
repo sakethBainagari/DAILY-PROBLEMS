@@ -1,7 +1,4 @@
 //https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/distinct-elements-in-window?page=0&pageSize=10&search=distin\
-
-
-import java.io.*;
 import java.util.*;
 
 public class Main {

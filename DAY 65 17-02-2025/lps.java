@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class lps {
 
     public static int LPS(int n, String ss){
         int max_len = 1; // Atleast 1 char is a palindrome

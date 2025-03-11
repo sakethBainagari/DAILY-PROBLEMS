@@ -3,7 +3,7 @@
 import java.lang.*;
 import java.util.*;
 
-class Codechef
+class caxxineDistribution
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

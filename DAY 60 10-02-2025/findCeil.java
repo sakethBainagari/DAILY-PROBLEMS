@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class findCeil {
     public static int findceil(int p, int[] a , int low, int high){
         int ceil = Integer.MAX_VALUE;   // floor = Integer.MIN_VALUE
         while(low<=high){

@@ -1,9 +1,8 @@
 //https://hive.smartinterviews.in/contests/mlrit-2026-phase-1-ic2/problems/z-pattern-ic?page=0&pageSize=10
 
-import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Zpattern {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Main. */

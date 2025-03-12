@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class findFloor {
     public static int findfloor(int[] a ,int p,int low, int high){
         int floor = Integer.MIN_VALUE;
         while(low<=high){

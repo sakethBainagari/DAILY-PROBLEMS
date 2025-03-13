@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class sumofpairs {
     public static boolean findsum(long[] arr, long k){
         int p1=0, p2 = arr.length-1;
         while(p1<p2){

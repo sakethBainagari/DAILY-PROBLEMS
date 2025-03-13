@@ -1,5 +1,4 @@
 // https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/sum-of-pairs
-
 import java.io.*;
 import java.util.*;
 

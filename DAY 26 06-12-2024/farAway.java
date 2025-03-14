@@ -1,5 +1,4 @@
 //https://www.codechef.com/problems/FARAWAY?tab=statement
-
 import java.lang.*;
 import java.util.*;
 

@@ -1,7 +1,6 @@
 //https://www.codechef.com/problems/FARAWAY?tab=statement
 import java.lang.*;
 import java.util.*;
-
 class farAway
 {
 	public static void main (String[] args) throws java.lang.Exception
